@@ -1,0 +1,44 @@
+.hostBanner {
+	background: url("https://a0.muscache.com/im/pictures/2595054e-d1d9-4fde-8046-58d51fcb3164.jpg");
+	object-fit: contain;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	height: 65vh;
+	width: 94vw;
+	margin-left: 40px;
+	border-radius: 15px;
+	position: relative;
+}
+
+.hostBanner__info {
+	color: white;
+	padding-top: 15vh;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 80px;
+	width: 350px;
+}
+
+.hostBanner__info > h1 {
+	font-size: 3rem;
+	font-weight: 600;
+}
+
+.hostBanner__info > h3 {
+	font-size: large;
+	font-weight: 400;
+	margin-top: 10px;
+}
+
+.hostBanner__info > button {
+	padding: 14px !important;
+	font-size: 14px !important;
+	line-height: 20px !important;
+	font-weight: 600 !important;
+	color: rgb(72, 72, 72) !important;
+	border: 0px !important;
+	background: rgb(255, 255, 255) !important;
+	border-radius: 8px !important;
+	margin-top: 50px;
+}
